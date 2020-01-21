@@ -29,7 +29,7 @@ public class sampleRun{
 	driver.get("https://www.google.com/?gws_rd=ssl");
 	System.out.println();
 	System.out.println("Main test code goes here : ");
-
+	System.out.println();
 	}
 
 
